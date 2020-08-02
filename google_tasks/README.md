@@ -1,3 +1,7 @@
+こちらのリポジトリのコードをサンプルに，状態管理とFirestoreについて書きました．
+
+https://kawa.dev/blog/flutter-state-notifier-firestore
+
 # google_tasks
 
 A new Flutter project.
